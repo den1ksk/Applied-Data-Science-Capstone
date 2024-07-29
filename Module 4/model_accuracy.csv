@@ -1,0 +1,5 @@
+Models,Accuracy
+Logistic Regression,0.8333333333333334
+SVM,0.8333333333333334
+Decision Tree,0.8333333333333334
+KNN,1.0
